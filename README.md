@@ -1,2 +1,4 @@
 # cari-hesap-takip
-python ve sqlite kullanarak yaptım
+Reklamcılık yapan amcam için ofisinde kullanabilmesi için yaptım bu uygulamayı.
+python ve sqlite teknolojilerini kullandım.
+
